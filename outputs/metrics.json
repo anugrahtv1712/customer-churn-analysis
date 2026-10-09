@@ -1,0 +1,9 @@
+{
+  "best_model": "Gradient Boosting",
+  "model": "Gradient Boosting",
+  "cv_auc": 0.847,
+  "test_auc": 0.844,
+  "precision": 0.664,
+  "recall": 0.529,
+  "f1": 0.589
+}
